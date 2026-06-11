@@ -17,6 +17,15 @@
       "department": "Analytics",
       "location": "New York",
       "last_updated": "2026-06-11T18:48:33.162958"
+    },
+    {
+      "asset_tag": "ASSET-LON-7580",
+      "status": "In Use",
+      "assigned_to": "Sanketh kulkarni",
+      "hostname": "LON-sanketh-001",
+      "department": "Engineering",
+      "location": "London",
+      "last_updated": "2026-06-11T19:02:31.425486"
     }
   ]
 }
