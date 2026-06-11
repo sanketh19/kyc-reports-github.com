@@ -53,6 +53,15 @@
       "department": "Engineering",
       "location": "London",
       "last_updated": "2026-06-11T19:33:36.912964"
+    },
+    {
+      "asset_tag": "ASSET-LON-8370",
+      "status": "In Use",
+      "assigned_to": "Mark smith",
+      "hostname": "LON-mark-001",
+      "department": "Engineering",
+      "location": "London",
+      "last_updated": "2026-06-11T19:48:53.028001"
     }
   ]
 }
