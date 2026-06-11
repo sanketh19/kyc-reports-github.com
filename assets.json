@@ -44,6 +44,15 @@
       "department": "Engineering",
       "location": "London",
       "last_updated": "2026-06-11T19:23:12.678597"
+    },
+    {
+      "asset_tag": "ASSET-LON-1705",
+      "status": "In Use",
+      "assigned_to": "Sanketh Kulkarni",
+      "hostname": "LON-sanketh-001",
+      "department": "Engineering",
+      "location": "London",
+      "last_updated": "2026-06-11T19:33:36.912964"
     }
   ]
 }
