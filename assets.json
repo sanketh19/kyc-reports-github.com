@@ -8,6 +8,15 @@
       "department": "Engineering",
       "location": "New York",
       "last_updated": "2026-06-11T18:46:52.735292"
+    },
+    {
+      "asset_tag": "ASSET-NEW-8040",
+      "status": "In Use",
+      "assigned_to": "John Smith",
+      "hostname": "NEW-john-001",
+      "department": "Analytics",
+      "location": "New York",
+      "last_updated": "2026-06-11T18:48:33.162958"
     }
   ]
 }
