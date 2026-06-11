@@ -1,0 +1,13 @@
+{
+  "assets": [
+    {
+      "asset_tag": "ASSET-NEW-4742",
+      "status": "In Use",
+      "assigned_to": "Alice Johnson",
+      "hostname": "NEW-alice-001",
+      "department": "Engineering",
+      "location": "New York",
+      "last_updated": "2026-06-11T18:46:52.735292"
+    }
+  ]
+}
